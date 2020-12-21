@@ -4,7 +4,7 @@
       <v-card-title>
         <v-col align="center">
           <v-avatar size="120" color="grey">
-            <img src="https://cdn.vuetifyjs.com/images/john.jpg" alt="John" />
+            <img src="../assets/123.jpg" alt="John" />
           </v-avatar>
           <div class="ma-4 white--text">weject</div>
         </v-col>
