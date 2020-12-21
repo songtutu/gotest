@@ -3,7 +3,7 @@
     <v-img src="../assets/bluebg.png">
       <v-card-title>
         <v-col align="center">
-          <v-avatar size="120" color="grey">
+          <v-avatar size="130" color="grey">
             <img src="../assets/123.jpg" alt="John" />
           </v-avatar>
           <div class="ma-4 white--text">weject</div>
@@ -34,7 +34,21 @@
 
       <v-list-item>
         <v-list-item-icon class="ma-3">
+          <v-icon>{{'mdi-sina-weibo'}}</v-icon>
+        </v-list-item-icon>
+        <v-list-item-content class="grey--text">12334566</v-list-item-content>
+      </v-list-item>
+
+      <v-list-item>
+        <v-list-item-icon class="ma-3">
           <v-icon>{{'mdi-facebook'}}</v-icon>
+        </v-list-item-icon>
+        <v-list-item-content class="grey--text">12334566</v-list-item-content>
+      </v-list-item>
+
+      <v-list-item>
+        <v-list-item-icon class="ma-3">
+          <v-icon>{{'mdi-twitter'}}</v-icon>
         </v-list-item-icon>
         <v-list-item-content class="grey--text">12334566</v-list-item-content>
       </v-list-item>
